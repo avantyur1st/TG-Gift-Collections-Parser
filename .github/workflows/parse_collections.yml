@@ -12,6 +12,7 @@ permissions:
 jobs:
   parse:
     runs-on: ubuntu-latest
+    timeout-minutes: 5  # Maximum execution time in minutes
     
     steps:
       - name: Checkout repository
