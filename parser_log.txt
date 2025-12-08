@@ -39,3 +39,11 @@
 [2025-12-08 06:38:15 UTC] [INFO] No changes detected in collections_names.py
 [2025-12-08 06:38:15 UTC] [INFO] Parser completed successfully: no changes detected
 [2025-12-08 06:38:15 UTC] [INFO] ============================================================
+[2025-12-08 12:48:06 UTC] [INFO] ============================================================
+[2025-12-08 12:48:06 UTC] [INFO] Starting gift collections parser
+[2025-12-08 12:48:06 UTC] [INFO] Fetching collections from API...
+[2025-12-08 12:48:09 UTC] [INFO] Successfully fetched 107 collections
+[2025-12-08 12:48:09 UTC] [INFO] No changes detected in Portals/collections_ids.py
+[2025-12-08 12:48:09 UTC] [INFO] No changes detected in collections_names.py
+[2025-12-08 12:48:09 UTC] [INFO] Parser completed successfully: no changes detected
+[2025-12-08 12:48:09 UTC] [INFO] ============================================================
